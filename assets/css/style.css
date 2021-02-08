@@ -1,0 +1,12 @@
+body {
+    background-color: #0f8d7f;
+}
+.font-style {
+    font-family: 'Staatliches', cursive;
+}
+.text-white{
+    color: white;
+}
+.bold{
+    font-weight: bold;
+}
